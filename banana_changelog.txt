@@ -1,0 +1,52 @@
+CHANGELOG BANANA DROID TANDUK
+
+     SOURCE
+
+   08-FEB-2023
+=================
+
+- Merged with February security patch
+- Fixed gesture navigation bar padding when hiding IME space
+- Added window ignore secure feature
+- Added lockscreen bottom keyguard shorcuts
+- Added flashlight blink on incoming calls
+- Added custom QS tile style
+- Fixed battery light on some supported devices
+- Redesign reTicker notifications
+- Navbar radius adjustment
+- Allow to always show the time in media player
+- Allow toggling the sperm progress bar
+- Optional music search toggle on quick search bar on Launcher
+- Added adaptive playback
+- Added hide apps feature
+- Other minor improvements and optimizations
+
+    10-FEB-2023
+==================
+
+- Fixed CTS issue
+- Added more QS Styles
+- Add sliders for color balance adjustment in Settings
+- Other optimizations
+
+
+       DEVICE
+
+    16-FEB-2023
+==================
+
+- Leica Camera Default
+- Added op dolby atmos
+- Aghisna 4.14.305 Kernel default
+- Update to LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
+- Uprev ImsRadio version to 1.7
+- Update IQtiRadio with v2.6
+- Uprev QtiRadio version to 2.5
+- Upgrade IRadio version to 1.5
+- Update blobs from sweet V13.0.15.0.SKFMIXM
+
+Credit
+
+Adarsh Grewal, Arian K, Aryan999 based device and common tree
+RooGhz720 kernel tree
+Fin_331 Tester
