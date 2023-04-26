@@ -1,52 +1,47 @@
-CHANGELOG BANANA DROID TANDUK
+     ~ CHANELOG ~
 
-     SOURCE
+DATE 25-04-2023
 
-   08-FEB-2023
-=================
+   SOURCE
 
-- Merged with February security patch
-- Fixed gesture navigation bar padding when hiding IME space
-- Added window ignore secure feature
-- Added lockscreen bottom keyguard shorcuts
-- Added flashlight blink on incoming calls
-- Added custom QS tile style
-- Fixed battery light on some supported devices
-- Redesign reTicker notifications
-- Navbar radius adjustment
-- Allow to always show the time in media player
-- Allow toggling the sperm progress bar
-- Optional music search toggle on quick search bar on Launcher
-- Added adaptive playback
-- Added hide apps feature
-- Other minor improvements and optimizations
+- Merged with Android-13.0.0_r41 QPR2
+- April security patch
+- Use different monet customization
+- Drop some features due to QPR2 issue merging
+- Initial Updater installed
+- Some improvements on GameSpace
+- A little memory optimization
+- Other minor improvements under the hood
+- Fixed wake on charge preference on some devices
+- Use RGB colorspace for recovery logo image
+- Allow bypassing signature verification on non-release build in recovery
+- Introduce PowerOffAlarmService
+- Fixed SmartPixels on supported devices
+- Fix a race condition in content provider
+- Updated some core service permissions
+- Enable limited alpha composting by default
+- Added QS Header Image customizations (credit to AncientOS and RisingTechOSS)
+- Updated PixelPropUtils 
+- Bring back notification clear all button styles
+- Updated refresh rate preferences in Settings
+- Minor UI improvements
+- Some minor optimizations
 
-    10-FEB-2023
-==================
+    DEVICE
 
-- Fixed CTS issue
-- Added more QS Styles
-- Add sliders for color balance adjustment in Settings
-- Other optimizations
+- Upgrade ImsFactory to 1.1
+- Update QTI Radio LPA HAL to v1.1
+- Update Audio HIDL to 7.1
+- Update Adreno to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0
+- Update leica camera 4.7.230127
+- Add dolby atmos
+- Semlohey default kernel based from aghisna
+- Upstream 4.14.313
 
-
-       DEVICE
-
-    16-FEB-2023
-==================
-
-- Leica Camera Default
-- Added op dolby atmos
-- Aghisna 4.14.305 Kernel default
-- Update to LA.UM.9.1.r1-13000-SMxxx0.QSSI13.0
-- Uprev ImsRadio version to 1.7
-- Update IQtiRadio with v2.6
-- Uprev QtiRadio version to 2.5
-- Upgrade IRadio version to 1.5
-- Update blobs from sweet V13.0.15.0.SKFMIXM
 
 Credit
 
 Adarsh Grewal, Arian K, Aryan999 based device and common tree
 RooGhz720 kernel tree
-Fin_331 Tester
+Mr.fox for leica
+my tester @ShiningSkull, AnkitVerma
