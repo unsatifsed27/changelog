@@ -1,0 +1,13 @@
+--------- CHANGELOG AFTERLIFE PROJECT -------
+
+DATE :     29 - November - 2023
+
+~ Add Viper4fx
+~ Add Leica Camera
+~ Update KernelSU 11366
+~ Upstrem Semlohey-pref+ kernel into 4.14.328
+~ Build kernel with Banana Clang
+
+DATE :     05 - November - 2023
+
+~ Initial Build OFFICIAL
