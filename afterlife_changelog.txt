@@ -1,5 +1,11 @@
 --------- CHANGELOG AFTERLIFE PROJECT -------
 
+DATE :     03 - Januafy - 2024
+
+~ Update Bloobs MIUI V14.0.8.0.TKFMIXM
+~ Update KernelSU 11413
+~ Upstrem Semlohey-pref+ kernel into 4.14.334
+
 DATE :     29 - November - 2023
 
 ~ Add Viper4fx
