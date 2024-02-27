@@ -1,0 +1,25 @@
+--------- CHANGELOG AFTERLIFE PROJECT -------
+
+
+Date :  27 - February - 2024
+
+- Initial Bild Official
+- Add support for ViPER4Android FX Redesign and build it
+- configuration spatial audio
+- Kernel Positron
+- Support KernelSU
+
+
+Thanks :
+
+Pulkit agarwal based device and vendor tree
+dereference23 based positron kernel tree
+TogoFire for Viper FX redesign
+my tester ( @Itshusnainn and @Tara_Sevven7 )
+
+Nb:
+
+Fw Hyper Os latest
+Recovery recom ofox 1.4
+flash rom, format data.. gapps build
+flash rom+bit gapps, format data vanilla build
